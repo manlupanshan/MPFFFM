@@ -1,5 +1,6 @@
 # “Multi-Scale Physical-Frequency Fusion for Large Field WFC Fluorescence Microscopy”
 This repository contains the comprehensive design, fabrication processes, simulation source code, and experimental details presented in our paper. Specifically, it includes:
+
 1.Microscopy System Design: The complete optical design workflow and detailed system parameters.
 2.Phase Mask Optimization: The end-to-end optimization methodology for the phase mask, constraint algorithm design, and results analysis. This section also includes the automated read/write scripts for Zemax, MATLAB, and Python co-simulation.
 3.Image Reconstruction: The source code for the reconstruction algorithm and the closed-loop optimization workflow.
