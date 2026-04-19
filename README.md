@@ -18,3 +18,5 @@ This repository contains the comprehensive design, fabrication processes, simula
 3.重构算法代码及在环优化流程。
 
 4.dPCR制备加工流程及显微系统操作读取流程。
+
+I will improve this warehouse in my spare time.(我会在闲暇时间完善这个仓库.)
